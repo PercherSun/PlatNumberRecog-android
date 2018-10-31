@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PlateNumberIdentification.iml" filepath="$PROJECT_DIR$/PlateNumberIdentification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatNumberRecog.iml" filepath="$PROJECT_DIR$/PlatNumberRecog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary342/openCVLibrary342.iml" filepath="$PROJECT_DIR$/openCVLibrary342/openCVLibrary342.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pnrLibrary/platenumberidentificationlibrary.iml" filepath="$PROJECT_DIR$/pnrLibrary/platenumberidentificationlibrary.iml" />
+      <module fileurl="file://E:\GitProject\PlatNumberRecog\pnrLibrary\platenumberidentificationlibrary.iml" filepath="E:\GitProject\PlatNumberRecog\pnrLibrary\platenumberidentificationlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pnrLibrary/pnrLibrary.iml" filepath="$PROJECT_DIR$/pnrLibrary/pnrLibrary.iml" />
     </modules>
   </component>
 </project>
